@@ -2,7 +2,7 @@
 <div>
   <ul>
     <li><b>Portfolio-</b></li>
-    <li><b>My Blogs-</b></li>
+    <li><b>My Blogs- https://hashnode.com/@sneyhn </b></li>
   </ul>
 </div>
 
