@@ -1,14 +1,27 @@
-###
-<div>
-  <ul>
-    <li><b>Portfolio-</b></li>
-    <li><b>My Blogs- https://hashnode.com/@sneyhn </b></li>
-  </ul>
+<div align="center">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=4999&pause=1000&color=CB1DF7&width=435&lines=Hi+%F0%9F%91%8B!+My+name+is+Sneha;Aspiring+Cloud+%26+Devops+Engineer" alt="Typing SVG" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B897FF,100:FFF5E1&height=120&section=footer" />
+
+## 
+<br/>
+
+<a href="https://github.com/sneywi"><img src="https://komarev.com/ghpvc/?username=sneywi&style=for-the-badge&color=185FA5&label=PROFILE+VIEWS" alt="Profile Views" /></a>
+&nbsp;
+<a href="https://github.com/sneywi?tab=followers"><img src="https://img.shields.io/github/followers/sneywi?style=for-the-badge&color=1D9E75&label=FOLLOWERS&logo=github&logoColor=white" alt="Followers" /></a>
+&nbsp;
+<a href="https://linkedin.com/in/snehamadhurii"><img src="https://img.shields.io/badge/LINKEDIN-SNEHAMADHURII-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+&nbsp;
+<a href="https://hashnode.com/@sneyhn"><img src="https://img.shields.io/badge/Hashnode-Sneyhn-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="HashNode" /></a>
+&nbsp;
+<a href="mailto:snehamkndpt@gmail.com"><img src="https://img.shields.io/badge/GMAIL-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/sneywi">
+  <img src="https://img.shields.io/badge/GitHub-sneywi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
 </div>
 
-###
-
-<h2 align="left">Hi 👋! My name is Sneha and I'm an Aspiring Cloud + DevOps Engineer ☁️♾️🚀</h2>
 
 
 ###
@@ -87,5 +100,4 @@
 <ul>
   
 </ul>
-
 
