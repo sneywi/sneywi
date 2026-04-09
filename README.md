@@ -15,7 +15,7 @@
 &nbsp;
 <a href="https://hashnode.com/@sneyhn"><img src="https://img.shields.io/badge/Hashnode-Sneyhn-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="HashNode" /></a>
 &nbsp;
-<a href="mailto:snehamkndpt@gmail.com"><img src="https://img.shields.io/badge/GMAIL-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:snehamkndpt@gmail.com"><img src="https://img.shields.io/badge/GMAIL-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/sneywi">
   <img src="https://img.shields.io/badge/GitHub-sneywi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
