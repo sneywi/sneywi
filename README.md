@@ -1,8 +1,8 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=4999&pause=1000&color=CB1DF7&width=435&lines=Hi+%F0%9F%91%8B!+My+name+is+Sneha;Aspiring+Cloud+%26+Devops+Engineer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&pause=1000&color=04B81B&width=435&lines=Hey!+%F0%9F%91%8B%2C+I'm+Sneha+Madhuri;Aspiring+Cloud+%26+DevOps+Engineer" alt="Typing SVG" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B897FF,100:FFF5E1&height=120&section=footer" />
+<img align="right" width="1000" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
 ## 
 <br/>
@@ -22,28 +22,21 @@
 
 </div>
 
+<br><br>
 
+## ✨ About Me
 
-###
+<p>
+Recent graduate exploring real-world DevOps through hands-on practice.<br><br>
 
-<h3 align="left">🍃 My Learnings</h3>
-<ul>
-  <li>Cloud Computing with AWS</li>
-  <li>DevOps Tools and Practices:
-    <ul>
-      <li>Docker</li>
-      <li>Kubernetes</li>
-      <li>Jenkins</li>
-      <li>GitHub Actions</li>
-      <li>Terraform</li>
-      <li>Ansible</li>
-      <li>ArgoCD</li>
-      <li>Azure DevOps</li>
-      <li>Prometheus and Grafana</li>
-    </ul>
-  </li>
-</ul>
+I enjoy breaking down complex cloud challenges into practical learning experiences. 
+Every mistake is part of the process, and I like sharing what I learn along the way.<br><br>
 
+My approach:<br>
+• Learn by doing<br>
+• Grow by sharing<br>
+• Improve by connecting
+</p>
 
 ## 🧑‍💻 Tech Stack
 
@@ -87,16 +80,17 @@
 
 </p>
 
-<br><br>
-
-###
-
-<h3 align="left">💻 Projects</h3>
+## 💻 Projects
 <ul>
+
+| Project | Description | Status |
+|---|---|:---:|
+| 📊 [Monitor-CozyReads](https://github.com/sneywi/Monitor-CozyReads) | Dockerized microservices app with real-time monitoring, alerting, and Grafana dashboards for full observability | ✅ Live |
+| ⚙️ [Autopatch-Ansible](https://github.com/sneywi/Autopatch-Ansible) | Automated AWS EC2 patching system with Ansible that applies updates and generates compliance reports | ✅ Live |
 
 </ul>
 
-<h3 align="left">📜 Certifications</h3>
+## 📜 Certifications
 <ul>
   
 </ul>
